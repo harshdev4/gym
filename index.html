@@ -918,5 +918,24 @@ a{
             </div>
         </div>
     </div>
+    <script>
+        // Select all anchor tags with the class "aLinks"
+    const aLinks = document.querySelectorAll('.aLinks');
+
+// Add click event listeners
+aLinks.forEach(link => {
+  link.addEventListener('click', event => {
+    event.preventDefault(); // Prevent default anchor behavior
+
+    // Get the target section's ID
+    const targetId = link.getAttribute('href').slice(1);
+    const targetSection = document.getElementById(targetId);
+
+    // Scroll to the target section smoothly
+    targetSection.scrollIntoView({ behavior: 'smooth' });
+  });
+});
+
+    </script>
 </body>
 </html>
