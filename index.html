@@ -136,6 +136,7 @@ a{
     width: 100%;
     top:240px;
     text-align: center;
+    z-index: 100;
 }
 
 .container .hero .bigtext{
@@ -986,7 +987,7 @@ aLinks.forEach(link => {
             document.querySelector(".navUl").style.left = "0";
         })
 
-        const closeNav = document.querySelector(".hamburger");
+        const closeNav = document.querySelector(".closeNav");
         closeNav.addEventListener("click", ()=>{
             document.querySelector(".navUl").style.left = "200%";
         })
