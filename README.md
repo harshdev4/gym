@@ -9,7 +9,7 @@ Welcome to the official repository for the **Gym** website — a sleek, responsi
 
 ## 📸 Preview
 
-![Gym Website Preview](https://harshdev4.github.io/gym/assets/images/hero.jpg)
+![Gym Website Preview](https://harshdev4.github.io/gym/assets/images/hero.png)
 
 ---
 
