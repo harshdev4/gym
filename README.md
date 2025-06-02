@@ -1,4 +1,3 @@
-
 # 🏋️‍♂️ Gym Website
 
 Welcome to the official repository for the **Gym** website — a sleek, responsive, and modern landing page designed to showcase gym services, attract new members, and provide essential information to potential clients.
@@ -31,9 +30,6 @@ Welcome to the official repository for the **Gym** website — a sleek, responsi
 
 * **HTML5**: Semantic structure and content.
 * **CSS3**: Styling and layout.
-* **JavaScript**: Interactivity and dynamic content.
-* **[Bootstrap](https://getbootstrap.com/)**: Responsive grid system and components.
-* **[Font Awesome](https://fontawesome.com/)**: Icons and visual enhancements.
 
 ---
 
